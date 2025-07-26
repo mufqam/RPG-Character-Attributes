@@ -2,7 +2,7 @@
 
 Proyek ini merupakan latihan analisis data menggunakan dataset "RPG Character Attributes" yang tersedia di Kaggle. Tujuannya adalah untuk menjelajahi hubungan antara berbagai atribut karakter dalam game RPG dan bagaimana atribut tersebut memengaruhi keberhasilan pemain dalam mengalahkan bos terakhir.
 
-Dataset: [RPG Character Attributes Dataset on Kaggle]([https://www.kaggle.com/datasets/jjasser/rpg-character-attributes-dataset])
+Dataset: [RPG Character Attributes Dataset on Kaggle](https://www.kaggle.com/datasets/jjasser/rpg-character-attributes-dataset)
 
 Ringkasan Analisis
 Dalam analisis ini, kami melakukan beberapa langkah untuk memahami data:
